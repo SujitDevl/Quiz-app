@@ -1,3 +1,4 @@
 # Quiz-app
-A quiz-game with the help of HTML, CSS and JavaScript.
+A simple game with lots of questions and answers.
 
+languages used: HTML, CSS and Vanilla JavaScript
