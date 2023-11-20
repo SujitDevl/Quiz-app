@@ -1,4 +1,4 @@
 # Quiz-app
-This is a simple quiz app built for fun and quizzes.
+This is a simple quiz app built for fun and quizzes
 
-A JavaScript project with little bit of HTML and CSS.
+A JavaScript project with a little bit of HTML and CSS
